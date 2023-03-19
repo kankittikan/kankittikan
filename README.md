@@ -1,7 +1,7 @@
 Hi! My name is Kittikan Makphon
 ========================================================================================================================================
 
-Software Developver
+Learning to be a software developer
 -------------------
 
 I started learning to code with microcontroller for 5 years in high school. After I enrolled majoring in computer science, I found a passion about full-stack deverlopment.

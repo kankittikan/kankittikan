@@ -4,7 +4,7 @@ Hi! My name is Kittikan Makphon
 Learning to be a software developer
 -------------------
 
-I started learning to code with microcontroller for 5 years in high school. After I enrolled majoring in computer science, I found a passion about full-stack deverlopment.
+I started learning to code with microcontroller for 5 years in high school. After I enrolled majoring in computer science, I found a passion about software engineering.
 
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [nongkan195@gmail.com](mailto:nongkan195@gmail.com)

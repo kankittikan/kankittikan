@@ -8,7 +8,7 @@ I started learning to code with microcontroller for 5 years in high school. Afte
 
 *   🌍  I'm based in Bangkok
 *   ✉️  You can contact me at [nongkan195@gmail.com](mailto:nongkan195@gmail.com)
-*   🧠  I'm learning Next.js
+*   🧠  I'm learning Spring Framework
 
 ### Skills 
 <p align="left">
